@@ -1,10 +1,10 @@
 # Instagram Clone 📸
 
 > Clonando a página de acesso do Instagram utilizando HTML5 e CSS3, praticando os conceitos fundamentais para construção de páginas web e estilização como responsividade.
-
----
+>
 
 ![Screenshot](./img/instagram_clone.png)
+
 
 # Tecnologias 💻
 
